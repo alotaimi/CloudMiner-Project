@@ -19,9 +19,9 @@ And, then adding these 4 lines to the file:
 
 ```bash
 [default]
-aws_access_key_id = AKIAIOSFODNN7EXAMPLE
-aws_secret_access_key = wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
-aws_session_token = IQoJb3JpZ2luX2IQoJb3JpZ2luX2IQoJb3JpZ2luX2IQoJb3JpZ2luX2IQoJb3JpZVERYLONGSTRINGEXAMPLE
+aws_access_key_id = XXXXXXXXXXXXXXXXXX
+aws_secret_access_key = XXXXXXXXXXXXXXXXXX
+aws_session_token = XXXXXXXXXXXXXXXXXX
 ```
 
 To know more about your credentials, refer to this [3].
