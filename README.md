@@ -37,7 +37,7 @@ terraform init
 
 It will initialize the current directory in order to use Terraform.
 
-1. Let Terraform make the changes to your AWS by running this command:
+3. Let Terraform make the changes to your AWS by running this command:
 
 ```bash
 terraform apply -auto-approve
