@@ -45,6 +45,10 @@ terraform apply -auto-approve
 
 This command will execute the “main.tf” file, which will create the EC2 Instance and setup the Minecraft server.
 
+## Diagram
+
+![Untitled](image/diagram.png)
+
 ## How to connect to the server
 
 After you run the apply command, you will see an output similar to this “The_Public_IP_address_of_the_Minecraft_Server = 123.123.123.123.” This IP address is the IP that you will use to connect to the server from the client side.
