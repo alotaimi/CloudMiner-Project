@@ -44,6 +44,7 @@ ingress {
 
 resource "aws_instance" "minecraft_server" {
   ami = "ami-053b0d53c279acc90"
+
   instance_type = "t2.medium"
   key_name = "private_key"
   vpc_security_group_ids = [aws_security_group.minecraft_server_security_group.id]
